@@ -1,0 +1,6 @@
+copiar los archivos :
+-rxtxParallel.dll 
+-rxtxSerial.dll en 
+C:\Program Files (x86)\Java\jre7\bin
+
+
